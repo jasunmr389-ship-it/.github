@@ -1,3 +1,20 @@
+# 规则与介绍文件 · 中文导航
+
+| 我要找什么 | 点击进入 |
+|---|---|
+| 团队介绍内容 | [团队介绍文件](profile/README.md) |
+| 怎么提交修改 | [协作与修改流程](CONTRIBUTING.md) |
+| 遇到问题怎么求助 | [支持说明](SUPPORT.md) |
+| 安全问题怎么处理 | [安全说明](SECURITY.md) |
+| 参与协作的行为规则 | [行为准则](CODE_OF_CONDUCT.md) |
+| 问题和建议的填写模板 | [问题反馈模板](.github/ISSUE_TEMPLATE/) |
+| 提交修改时的说明模板 | [修改申请模板](.github/PULL_REQUEST_TEMPLATE.md) |
+| 程序自动检查的起步模板 | [自动检查模板](workflow-templates/) |
+
+当前文件位于个人账号的仓库中，下方保留的原说明沿用了OverSeaDep组织名称；此处导航不代表已核实组织层面的设置。
+
+---
+
 # OverSeaDep / .github
 
 这是 OverSeaDep 组织的 GitHub 默认仓库（organization defaults）。GitHub 会把这里的公共内容作为组织的统一入口，并把缺失的社区健康文件、Issue/PR 模板与可复用工作流应用到本组织「没有自带对应文件」的仓库（公开与私有仓库都适用）。
